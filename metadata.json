@@ -1,0 +1,6 @@
+{
+  "name": "GYM / BRAND - Athletic Strength Club",
+  "description": "Premium athletic club and strength sanctuary website with interactive 3D hero, facility showcase, membership plans, inquiry management, and verified member portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
